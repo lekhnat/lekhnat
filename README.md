@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @lekhnat
-- 👀 I’m interested in MYSQL and other database
-- 🌱 I’m currently learning MYSQL
-- 💞️ I’m looking to collaborate on MYSQL
-- 📫 How to reach me on lntsrma@gmail.com
+- Hi👋
+- I’m interested learning Data Analysis & Visualizations.
+- I’m always open to discussions on topics like- SQL, Power BI, Adv. Excel, Requirement Gathering, Data Modeling 😊
+- I’m looking to collaborate on the above mentioned topics
+- I can be reached - lntsrma@gmail.com
 
-<!---
-lekhnat/lekhnat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
